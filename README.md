@@ -128,4 +128,4 @@ Send a POST request to https://jsonplaceholder.typicode.com/posts and store the 
 
 ---
 
-> Written by **Amr Twig**, Rdivxe LLC – designed for professional developers.
+> Written by **OmarRizk**, VFN Media Lab LLC – designed for professional developers.
